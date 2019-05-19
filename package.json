@@ -1,5 +1,5 @@
 {
-  "name": "passport-openidconnect",
+  "name": "passport-openidconnect-fixed",
   "version": "0.0.3",
   "description": "OpenID Connect authentication strategy for Passport.",
   "keywords": [
